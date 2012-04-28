@@ -84,7 +84,7 @@
 (function() {
   /*
   Chosen source: generate output using 'cake build'
-  Copyright (c) 2011 by Harvest
+  Copyright (c) 2011 by Harvest  
   */
   var AbstractChosen, root;
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
